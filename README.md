@@ -19,9 +19,6 @@ Correlation Heatmap: To identify the strength of relationships between different
 
 2.Data Preparation: Use of lambda and apply function to convert the quality parameter to binary function (0 or 1)
 
-3. Model Building
+3. Model Building:Random Forest Classifier: Labeled target variable is classified into classes by the classifier .
 
-Random Forest Classifier: Labeled target variable is classified into classes by the classifier .
-
-4. Results
-Random Forest Classifier predicts the quality of wine as a binary classifier 0(bad qaulity ) and 1(good quality) with accuracy of 93%.
+4. Results:Random Forest Classifier predicts the quality of wine as a binary classifier 0(bad qaulity ) and 1(good quality) with accuracy of 93%.
