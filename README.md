@@ -2,8 +2,7 @@ Red Wine Quality Prediction
 
 Overview
 
-Welcome to the Red Wine Quality Prediction project! This repository contains the code for performing data preprocessing, exploratory data analysis, and building  machine learning models to predict quality of red wine. The dataset used for this project is sourced from a Kaggle competition, and the goal is to predict the final sale price of homes based on various features.
-
+Welcome to the Red Wine Quality Prediction project! This repository contains the code for performing data preprocessing, exploratory data analysis, and building  machine learning models to predict quality of red wine.
 Dataset
 
 The dataset contains various features like  fixed acidity,volatile acidity,citric acid ,residual sugar etc. The target variable is the quality of wine.
